@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GAUG7RXRBFLPAQ7H5NM4LKM2DCOS5DZHHW2ITZZI53W55IJ626K2B7FG"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="Balenciaga"
+ORG_URL="https://www.Balenciaga.org"
+ORG_DESCRIPTION="Balenciaga is a luxury fashion house founded in 1917 by Basque designer Cristóbal"
+ORG_TWITTER="@balenciaga"
+ORG_LOGO="https://i.ibb.co/ZJY08Bm/3.png"
+ORG_OFFICIAL_EMAIL="balenciaga@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="Balenciaga"
+issuer="GAUG7RXRBFLPAQ7H5NM4LKM2DCOS5DZHHW2ITZZI53W55IJ626K2B7FG"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="Balenciaga"
+desc="Balenciaga is a luxury fashion house founded in 1917 by Basque designer Cristóbal"
+conditions="Only 1000 Balenciaga Tokens for sale"
+image="https://i.ibb.co/ZJY08Bm/3.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#Balenciaga was issued using the open and inclusive Stellar blockchain network.
